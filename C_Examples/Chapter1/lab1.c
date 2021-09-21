@@ -130,7 +130,7 @@ void print_all_tokens(char **tokens){
 
 
 int main() {
-  char string[] = "hello world test";
+  char string[] = "This is a test for tokenize";
 
   print_all_tokens(tokenize(string));
 
