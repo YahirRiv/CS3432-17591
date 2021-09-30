@@ -127,8 +127,7 @@ void print_all_tokens(char **tokens){
     printf("Tokens[%d]:%s\n",i, *(tokens+i));
   }
 }
-
-
+/*
 int main() {
   char string[] = "This is a test for tokenize";
 
@@ -136,3 +135,4 @@ int main() {
 
   return 0;
 }
+*/
